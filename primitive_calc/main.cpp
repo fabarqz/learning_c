@@ -45,7 +45,7 @@ int main()
          << "[2] Subtraction    | result=a-b " << endl
          << "[3] Multiplication | result=a*b " << endl
          << "[4] Division       | result=a/b " << endl
-         << "Result of last operation, input 'c' as variable input to reuse value: " << c << endl;
+         << "Result of last operation: " << c << endl;
 
     cin >> operation;
     cout << "Enter the first value (a): ";

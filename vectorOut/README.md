@@ -1,0 +1,1 @@
+This script contains a function vectorOut which purpose is to output a vector presented in a vector format.
