@@ -1,0 +1,3 @@
+This is a small program simulating a menu selection based on one of the examples in the second chapter of the book Beginning CPP through Game programming, third edition by Michael Dawson.
+
+The exercise is originally meant to demonstrate the concept of a switch in C++. I then modified it by implementing a simple error handling that warns the user if an incorrect input is made and allowing them to re-enter an input.
