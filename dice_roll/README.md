@@ -1,0 +1,1 @@
+This is a simple program that simulates a dice roll.
