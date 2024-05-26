@@ -35,6 +35,16 @@ int main()
     float result = convertCtoK(inputTemperature);
     printf("%.3f deg Celsius --> %.3f deg Kelvin", inputTemperature, result);
   }
+  else if (inputUnit == 'F' && targetUnit == 'K')
+  {
+    float result = convertFtoK(inputTemperature);
+    printf("%.3f deg Fahrenheit --> %.3f deg Kelvin", inputTemperature, result);
+  }
+  else if (inputUnit == 'K' && targetUnit == 'F')
+  {
+    float result = convertKtoF(inputTemperature);
+    printf("%.3f deg Kelvin --> %.3f deg Fahrenheit", inputTemperature, result);
+  }
   else
   {
     printf("something went wrong");
