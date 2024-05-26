@@ -1,0 +1,1 @@
+A program that prints out a table of temperature conversion between celsius and fahrenheit. This is a recreation of a code featured in the book "The C Programming Language" by Ritchie and Kernighan adapted to modern C coding convention.
